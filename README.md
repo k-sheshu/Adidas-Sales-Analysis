@@ -41,6 +41,8 @@ This project focuses on analyzing the U.S. sales data of Adidas and creating an 
   7. **Regional Sales Analysis**:
      - Deep-dived into region-specific sales metrics.
      - Visuals: Geospatial Maps with drill-through capabilities.
+
+
 ![Dashboard Overview](img1.png)
 
 ### 4. **Key Insights**
@@ -48,6 +50,8 @@ This project focuses on analyzing the U.S. sales data of Adidas and creating an 
 - Observed seasonal sales trends and identified peak sales periods.
 - Analyzed regional disparities in sales, highlighting growth opportunities in underperforming regions.
 - Compared sales methods to determine the most effective strategies.
+
+
 ![Regional Sales Analysis](img2.png)
 
 ### 5. **Interactive Features**
